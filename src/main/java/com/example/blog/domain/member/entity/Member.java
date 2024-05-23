@@ -1,4 +1,4 @@
-package com.example.blog.domain.post.entity;
+package com.example.blog.domain.member.entity;
 
 import com.example.blog.global.jpa.BaseEntity;
 import jakarta.persistence.Column;
